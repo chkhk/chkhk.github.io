@@ -1,7 +1,8 @@
-# 从 docs/config 目录复制 CNAME 到 docs 目录
+# 从 docs/config 目录复制 CNAME, robots.txt 到 docs 目录
 Copy-Item .\CNAME .\docs\
+Copy-Item .\robots.txt .\docs\
 
-Write-Output "`n`n CNAME复制成功 `n`n"
+Write-Output "`n`n 复制成功 `n`n"
 Read-Host -Prompt "按 Enter 键继续"
 
 Write-Output "`n`n git status : `n`n"
