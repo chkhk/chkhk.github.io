@@ -1,4 +1,3 @@
-copy CNAME docs\
 copy robots.txt docs\
 
 pause

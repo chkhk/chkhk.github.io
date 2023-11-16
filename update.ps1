@@ -1,5 +1,4 @@
-# 从 docs/config 目录复制 CNAME, robots.txt 到 docs 目录
-Copy-Item .\CNAME .\docs\
+# 从 docs/config 目录复制 robots.txt 到 docs 目录
 Copy-Item .\robots.txt .\docs\
 
 Write-Output "`n`n 复制成功 `n`n"
