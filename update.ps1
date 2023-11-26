@@ -20,6 +20,8 @@ Write-Output "`n`n git push origin pages : `n`n"
 # 推送到pages分支
 git push origin pages
 
+# 推送到gitee pages分支
+git push origin2 pages
 
 Write-Output "`n `n `n"
 # 暂停脚本
