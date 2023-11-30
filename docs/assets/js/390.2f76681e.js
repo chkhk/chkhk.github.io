@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkpocket"]=self["webpackChunkpocket"]||[]).push([[390],{7039:function(e,t,n){n.r(t),n.d(t,{default:function(){return s}});var u=n(3151),a=n(529),c={__name:"FaqCollapse",setup(e){return(0,a.Z)(),(e,t)=>((0,u.wg)(),(0,u.iD)("div"))}};const r=c;var s=r}}]);
