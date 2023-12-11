@@ -1,3 +1,7 @@
+E:
+
+cd E:\WorkingSpace\VSCode\my-code-pocket\dist\
+
 copy robots.txt docs\
 
 pause
